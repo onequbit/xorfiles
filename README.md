@@ -6,5 +6,7 @@ usage:
 xorfiles.py file1 file2 
 ```
 output:
-```outfile-DATETIME-STAMP.txt```
+```
+outfile-DATETIME-STAMP.txt
+```
 
