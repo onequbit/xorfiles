@@ -10,7 +10,7 @@ string f2 = args[1];
 string outfile = "outfile_" + Program.TimeStamp() + ".out";
 
 Program.Require(File.Exists(f1), $"{f1} not found");
-Program.Require(File.Exists(f2), $"{f1} not found");
+Program.Require(File.Exists(f2), $"{f2} not found");
 
 BinaryReader reader1 = new BinaryReader(File.Open(f1, FileMode.Open, FileAccess.Read, FileShare.ReadWrite));
 BinaryReader reader2 = new BinaryReader(File.Open(f2, FileMode.Open, FileAccess.Read, FileShare.ReadWrite));
