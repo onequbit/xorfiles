@@ -1,0 +1,16 @@
+C:\Users\araquino\OneDrive\Dev\xorfiles\bin\Debug\net5.0\xorfiles.exe
+C:\Users\araquino\OneDrive\Dev\xorfiles\bin\Debug\net5.0\xorfiles.deps.json
+C:\Users\araquino\OneDrive\Dev\xorfiles\bin\Debug\net5.0\xorfiles.runtimeconfig.json
+C:\Users\araquino\OneDrive\Dev\xorfiles\bin\Debug\net5.0\xorfiles.runtimeconfig.dev.json
+C:\Users\araquino\OneDrive\Dev\xorfiles\bin\Debug\net5.0\xorfiles.dll
+C:\Users\araquino\OneDrive\Dev\xorfiles\bin\Debug\net5.0\ref\xorfiles.dll
+C:\Users\araquino\OneDrive\Dev\xorfiles\bin\Debug\net5.0\xorfiles.pdb
+C:\Users\araquino\OneDrive\Dev\xorfiles\obj\Debug\net5.0\xorfiles.csprojAssemblyReference.cache
+C:\Users\araquino\OneDrive\Dev\xorfiles\obj\Debug\net5.0\xorfiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\araquino\OneDrive\Dev\xorfiles\obj\Debug\net5.0\xorfiles.AssemblyInfoInputs.cache
+C:\Users\araquino\OneDrive\Dev\xorfiles\obj\Debug\net5.0\xorfiles.AssemblyInfo.cs
+C:\Users\araquino\OneDrive\Dev\xorfiles\obj\Debug\net5.0\xorfiles.csproj.CoreCompileInputs.cache
+C:\Users\araquino\OneDrive\Dev\xorfiles\obj\Debug\net5.0\xorfiles.dll
+C:\Users\araquino\OneDrive\Dev\xorfiles\obj\Debug\net5.0\ref\xorfiles.dll
+C:\Users\araquino\OneDrive\Dev\xorfiles\obj\Debug\net5.0\xorfiles.pdb
+C:\Users\araquino\OneDrive\Dev\xorfiles\obj\Debug\net5.0\xorfiles.genruntimeconfig.cache
